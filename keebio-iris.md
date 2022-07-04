@@ -40,6 +40,7 @@ A downside of the MT3 profile is that I haven't found any shine through (RGB lit
 
 #### Wrist Rest:
 I am using an [ErgoDox EZ Wing](https://ergodox-ez.com/products/wing) wrist rests which are also mounted to the tent kit using AirStick.  They collect lint, but really support my wrists well and work well with the tall MT3 caps.
+
 ![Ergodox EZ Wing](./images/ergodoxez.png)
 
 #### Cabling:
@@ -49,9 +50,9 @@ I need to move desks and the USB-C connectors are pretty recessed so I got a few
 #### Layout:
 For QMK, I'm using QK_GRAVE_ESCAPE in the upper left corner with KC_GRAVE the the LOWER layer for TAB.
 
-Left side edge: ESC, TAB, CTRL, Shift
-Left thumbs CMD, Lower, Return, left bracket.
-Right side edge: Backspace, Backslash, quote, shift
+Left side edge: ESC, TAB, CTRL, Shift  
+Left thumbs CMD, Lower, Return, left bracket.  
+Right side edge: Backspace, Backslash, quote, shift  
 Right thumbs: right bracket, space, Raise, ALT(option)
 
 I flipped the bracket keys upside down and place them above Return and Space for thumbs.
