@@ -17,7 +17,7 @@ You can buy Iris kits or [pre-built](https://keeb.io/collections/iris-split-ergo
 
 I went without the optional rotary encoders. I don't use them very much and there are not as many thumb keys on Iris, so I didn't want to give any up.
 
-####Switches:
+#### Switches:
 I went with Keebio's in stock [Durock Shrimp](https://divinikey.com/products/durock-shrimp-silent-tactile-switches) tactile option.  I am also a fan of [Zeal Zilents 67g](https://zealpc.net/products/zilent), and the Shrimps are very similar, but less expensive.
 
 
